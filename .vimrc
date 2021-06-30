@@ -1,0 +1,20 @@
+set tabstop=3 softtabstop=3
+set shiftwidth=3
+set expandtab
+set scrolloff=8
+set smartindent
+set nu
+set relativenumber
+set nowrap
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+set nohlsearch
+set incsearch
+set hidden
+set noerrorbells
+set signcolumn=yes
+set termguicolors
+set signcolumn=yes
+set colorcolumn=80
