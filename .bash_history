@@ -1,109 +1,3 @@
-ls
-yarn rw create sapling
-exit
-yarn rw create sapling
-yarn rw
-git branch
-mkdir sapling
-cd sapling
-git branch
-git clone git@github.com:BstevensG4G/sapling.git
-cd ..
-rm sapling
-rm -r sapling
-cd ~
-mkdir sapling
-exit
-git clone git@github.com:BstevensG4G/sapling.git
-ls
-cd ..
-git clone git@github.com:BstevensG4G/sapling.git
-rm -r -f sapling
-git clone git@github.com:BstevensG4G/sapling.git
-cd sap
-ls
-cd sapling
-ls
-code .
-ls
-yarn rw dev
-yarn redwood prisma migrate dev
-cd ..
-rm -r -f sapling
-yarn --version
-yarn create redwood-app ./sapling
-yarn rw dev
-cd sapling/
-yarn rw dev
-clear
-yarn rw g page home /
-yarn rw g page home
-yarn rw generate page home
-rw g page home
-yarn rw g page dev
-yarn rw generate page home
-exit
-yarn rw generate layout store
-yarn redwood prisma generate
-yarn redwood prisma migrate dev
-sudo service postgresql status
-sudo -u postgres psql
-sudo passwd postgres
-yarn redwood prisma migrate dev
-eixt
-exit
-yarn redwood prisma migrate dev
-sudo service postgresql status
-sudo -u postgres psql
-ls
-yarn redwood prisma migrate dev
-exit
-yarn rw --help
-cd web
-yarn add -D @types/jest
-cd ..
-ls
-rm -r sapling
-yarn create redwood-app sapling
-npm install @babel/core
-yarn rw dev
-cd sapling
-yarn rw dev
-yarn rw generate page home
-yarn rw generate page about
-yarn rw dev
-yarn rw prisma migrate dev
-su service postgresql status
-sudo service postgresql status
-sudo service postgresql start
-sudo service postgresql status
-yarn rw prisma generate dev
-yarn rw dataMigrate install
-sudo -u postgres psql
-yarn rw migrate
-yarn rw dataMigrate install
-yarn rw prisma migrate dev
-yarn rw g scaffold product
-yarn rw g scaffold orders
-yarn rw g scaffold user
-yarn rw dev
-clear
-yarn rw g layout store
-yarn rw g layout admin
-yarn rw g page home /
-yarn rw g page about
-yarn rw g page admin
-yarn rw prisma format
-yarn rw g page home /
-yarn rw generate page home /
-yarn redwood generate page home /
-exit
-sudo service postgresql status
-sudo service postgresql start
-yarn rw prisma migrate dev
-sudo service postgresql stop
-git log
-ll
 su postgres
 exit
 npm i
@@ -1998,3 +1892,109 @@ ps
 exit
 startxfce4
 exit
+nvim .bashrc
+vim .bashrc
+ll
+clear
+ll
+exit
+ssh bill@LinuxLaptop
+ssh bill@192.169.1.24
+ssh bill@192.168.1.24
+ls
+cd dotfiles/
+ll
+exit
+cd development/
+ls
+cd python/
+ls
+cd poker/
+ls
+touch holdem.py
+nvim app.py
+clear
+exit
+cd development/
+cd python/
+cd poker/
+code .
+exit
+/usr/bin/python3 /home/bill/development/python/poker/holdem.py
+clear
+python3 holdem.py
+clear
+exit
+flask run
+export FLASK_PATH=poker.py
+flask run
+pip install flask
+flask run
+python3 -m venv venv
+source venv/bin/activate
+export FLASK_PATH=poker.py
+flask run
+export FLASK_ENV=development
+flask run
+mv v templates/ app/templates/
+mv v templates/ app/templates
+mv v templates/ app/
+flask run
+exit
+clear
+flask run
+exit
+source venv/bin/activate
+ls
+cd app
+ls
+clear
+cd ..
+code .
+/bin/python3
+exit
+pip install flask-login
+pip install flask-sqlalchemy
+flask run
+export FLASK_APP=main.py
+flask run
+clear
+source venv/bin/activate
+flask run
+pip install flask-wtforms
+pip install flask-wtf
+clear
+history
+pip install -U Flask-WTF
+clear
+flask run
+pip install flask_sqlalchemy
+flask run
+pip install flask-login
+flask run
+export FLASK_ENV==ddevelopment
+flask run
+export FLASK_ENV=development
+flask run
+history
+flask run
+ll
+source venv/bin/activate
+flask run
+export FLASK_APP=main.py
+export FLASK_ENV=development
+flask run
+/bin/python3 /home/bill/development/python/poker/pokerWeb/holdem.py
+cd pokerWeb/
+python3 holdem.py
+export FLASK_APP=main.py
+export FLASK_ENV=development
+source venv/bin/activate
+export FLASK_ENV=development
+python3 test.py
+cd pokerWeb
+python3 test.py
+python3 holdem.py
+flask run
+cd ..
+flask run
