@@ -1,371 +1,3 @@
-su postgres
-exit
-npm i
-clear
-cd ..
-rm -r -f react-resume-component/
-ls
-npm start
-npm install --save react-resume-component
-cd ..
-npm install --save react-resume-component pro-resume
-cd pro-resume/
-ls
-npm audit fix
-cd ..
-npm audit fix
-ls
-cd pro-resume/
-ls
-cd src
-ls
-cd components/
-ls
-cd ..
-rm components/
-rm -r components/
-npm install --save react-resume-component
-npm update
-npm install
-npm start
-cd ..
-rm -r pro-resume/
-y
-ls
-mkdir pro-resume
-cd pro-resume/
-git origin -v
-git remote -v
-git clone git@github.com:BstevensG4G/pro-resume.git
-npm i
-npm start
-ls
-cd pro-resume/
-LS
-ls
-npm start
-cd ..
-git -r -f pro-resume
-rm -r -f pro-resume/
-git clone https://github.com/rjkokko/react-resume-component.git
-ls
-cd react-resume-component/
-ls
-code .
-cd ..
-ls
-yarn create next-app pro-resume
-cd pro-resume
-yarn dev
-sudo service postgresql status
-yarn rw db up
-yarn redwood console
-ls
-cd ..
-rm -r sapling
-yarn create redwood-app sapling
-cd sapling
-yarn rw prisma fix
-yarn rw prisma format
-sudo service postgresql status
-yarn rw prisma format
-yarn rw prisma migrate dev
-yarn rw g scaffold user
-yarn rw g scaffold product
-yarn rw dev
-yarn rw prisma format
-yarn rw prisma migrate dev
-yarn rw dev
-yarn rw g page home /
-yarn rw g page about /about
-yarn rw g page admin /admin
-yarn rw g layout admin
-yarn rw g layout store
-yarn rw dev
-git init .
-git commit
-git add .
-git commit
-git statu
-git status
-git log
-git commit -m initial commit
-git status
-git
-git commit -m 'initial commit'
-git status
-git push origin master
-git remote add origin https://github.com/BstevensG4G/sapling
-git push origin master
-git push -u origin master
-git remote add origin https://github.com/BstevensG4G/sapling.git
-git push -u origin master
-git remote -v
-git push origin master
-git checkout -b addFeatures
-cd ..
-npx create-react-app proResume
-npx create-react-app pro-resume
-cd pro-resume/\
-cd pro-resume/
-ls
-code .
-sudo server postgresql start
-sudo service postgresql start
-cd ..
-rm -r sapling2
-cd sapling
-cd ..
-ls
-sudo -u postgres psql
-docker run -d -p 80:80 docker/getting-started
-docker -help
-docker --help
-docker --version
-docker ps
-docker top
-docker ps
-docker run -d -p 80:80 docker/getting-started
-docker ps
-docker stop
-docker stop getting-started
-docker ps
-docker stop getting-started
-docker stop docker/getting-started
-docker stop ecaf7c5051c3
-docker --help
-docker rm ecaf7c5051c3
-docker ps
-ls
-cd ..
-mkdir dnode
-cd dnode
-ls
-docker run node
-docker ps -a
-docker run -it node
-node -v
-docker ps -a
-docker rm 32e573e620c5
-docker rm 1a0f3a4f0d9a
-clear
-cd /
-cd ~
-ls
-cd sapling
-ls
-docker build .
-ls
-docker ps -a
-mkdir dock
-cd dock
-cd ..
-rm -r dock
-npm init
-npm install -g npm
-npm init
-npm install
-git pull git@github.com:BstevensG4G/sapling.git
-cd ..
-yarn create redwood-app sapling2
-ls
-mv sapling2/node_modules sapling/node_modules
-cd sapling
-yarn rw dev
-yarn rw test dev
-yarn rw test web
-ls
-flutter doctor
-cd ..
-ls
-sudo apt install -y lib32z1 default-jdk
-nvim .bashrc
-ps -a
-nvim .bashrc
-ls
-cd ..
-nvim .bashrc
-source .bashrc
-curl -s "https://get.sdkman.io" | bash
-sudo apt install zip unzip
-sdkmanager --version
-echo $PATH
-sdkmanager --version
-which sdkmanager
-cd ~
-ls
-cd etc
-cd /etc
-ls
-apt -list
-apt /l
-apt list
-apt list --installed
-javac --version
-echo $JAVA_HOME
-cd ~/Downloads
-echo $ANDROID_SDK_ROOT
-cd /home/bill
-ls
-nvim .bashrc
-ls
-sdkmanager --version
-cd ..
-ll
-nano .nvm
-cd .nvm
-ls
-cd ..
-nvm .bashrc
-ls
-sdkmanager --version
-echo $ANDROID_SDK_ROOT
-nvim .bashrc
-source .bash
-source .bashrc
-sdkmanager --version
-source .bashrc
-nvim .bashrc
-source .bashrc
-sdkmanager --version
-ls
-C:\Users\yabill\AppData\Local\Android\Sdk\platform-tools\adb.exe --version
-exit
-cd ~
-cd test
-ls
-cd ..
-cd Android/
-cd Sdk/
-ls
-cd cmdline-tools/
-ls
-cd bin
-ls
-echo $ANDROID_SDK_ROOT
-cd /mnt
-ls
-cd c
-ls
-cd ~
-nvim .bashrc
-sdkmanager --version
-echo $ANDROID_SDK_ROOT
-source .bashrc
-echo $ANDROID_SDK_ROOT
-sdkmanager --version
-cd c:\Users\username\AppData\Local\Android\Sdk 
-cd /mnt/c/Users/yabil/AppData/Local/Android/Sdk/
-ls
-cd cmdline-tools/
-ls
-cd latest
-ls
-cd bin
-ls
-sdkmanager --version
-sdkmanager.bat --version
-./sdamanager --version
-./sdkmanager --version
-./sdkmanager.bat --version
-cd ~
-sudo apt-get install libc6:i386 libncurses5:i386 libstdc++6:i386 lib32z1 libbz2-1.0:i386
-mv /mnt/c/Users/yabil/Downloads/android-studio-ide-201.7199119-linux.tar.gz ~
-ls
-mv /mnt/c/Users/yabil/Downloads/commandlinetools-linux-6858069_latest.zip ~
-unzip --version
-ls
-unzip andoird-studio-ide-201.7199119-linux.tar.gz -d Android
-unzip /andoird-studio-ide-201.7199119-linux.tar.gz -d Android
-unzip android-studio-ide-201.7199119-linux.tar.gz -d Android
-ls
-ll
-./android-studio-ide-201.7199119-linux.tar.gz
-mv android-studio-ide-201.7199119-linux.tar.gz /usr/local/
-cd /usr/local
-ls
-cd bin
-ls
-cd ~
-adb
-sudo install adb
-ls
-cd test
-mkdir test
-mv commandlinetools-linux-6858069_latest.zip /test
-mv commandlinetools-linux-6858069_latest.zip test
-ls
-cd test
-ls
-unzip commandlinetools-linux-6858069_latest.zip 
-cd ..
-mkdir Android/Sdk
-mkdir /Android/Sdk
-mkdir Android
-cd Android/
-mkdir Sdk
-cd ..
-cd test
-ls
-mv cmdline-tools/ ~/Android/Sdk/
-cd ..
-nvim .bashrc
-adb --version
-cd Androi
-cd Android/
-cd Sdk
-ls
-cd cmdline-tools/
-ls
-cd bin
-ls
-cd ~
-sdbmanager --version
-source .bashrc
-sdbmanager --version
-sdkmanager --version
-./sdkmanager --version
-nvm .bashrc
-nvim .bashrc
-source .bashrc
-sdkmanager --version
-nvim .bashrc
-sdkmanager --version
-nvim .bashrc
-source .bashrc
-sdkmanager --version
-cd /Android/Sdk
-cd Android/Sdk/
-ls
-cd cmdline-tools/
-ls
-mkdir latest
-mv bin latest
-mv lib latest
-ls
-cd latest
-ls
-cd bin
-ls
-cd ..
-cd ~
-nvim .bashrc
-source .bashrc
-sdkmanager --version
-sdkmanager "platform-tools"
-cd Android/Sdk/
-ls
-cd plat
-cd platform-tools/
-ls
-cd ~
-nvim .bashrc
-clear
-/home/bill/Android/Sdk/platform-tools/adb version
-sudo snap install flutter --classic
-sudo apt update
-apt list --upgradeable
-sudo apt upgrade
 sudo snap install flutter --classic
 cd sapling
 yarn rw prisma format
@@ -1998,3 +1630,371 @@ python3 holdem.py
 flask run
 cd ..
 flask run
+pip install -U https://github.com/wtforms/flask-wtf/archive/main.tar.gz
+clear
+pip install -U Flask-WTF
+exit
+/bin/python3
+clear
+exit
+source venv/bin/activate
+export FLASK_ENV=development
+flask run
+export FLASK_APP=main.py
+flask run
+pip install Flask_WTF
+pip install WTForms-SQLAlchemy
+flask run
+clear
+flask run
+clear
+flask run
+clear
+flask run
+pip install wtforms[email]
+flask run
+flear
+clear
+flask run
+/bin/python3
+export FLASK_APP=main.py
+source venv/bin/activate
+export FLASK_APP=main.py
+export FLASK_ENV=development
+python3 pokerWeb/holdem.py
+ls
+cd development/python/poker/
+ls
+cd pokerWeb/
+ls
+nvim holdem.py 
+cd ..
+mkdir gui
+cd gui
+venv gui
+touch main.py
+nvim main.py 
+cd ~
+ls
+ll
+vim .tmux.conf
+echo $TERM
+ls
+vim .bashrc
+clear
+echo $TERM
+ls
+clear
+echo $TERM
+ll
+vim .tmux.conf
+cd /usr/share/tmux/
+cd /usr/share/
+ls
+cd ~
+rm .tmux.config
+ll
+rm .tmux.conf
+cd dotfiles/
+ll
+rm .tmux.config
+rm .tmux.conf
+cd ..
+tmux show -g > ~/.tmux.conf
+ls
+ll
+mv .tmux.conf dotfiles/.tmux.conf
+ln -s dotfiles/.tmux.conf 
+nvim .tmux.conf
+ll
+exit
+nvim .bashrc
+nvim .vimrc
+touch ~/.config/nvim/plug-confi/coc.vim
+cd .config/nvim/
+ls
+vim init.vim
+cd ..
+ls
+cd Vundle.vim/
+ls
+cd ftplugin/
+ls
+nvim vundlelog.vim 
+cd ..
+cd autoload/
+ls
+nvim vundle.vim 
+cd ..
+cd vundle
+nvim vundle
+ls
+cd autoload/
+ls
+cd vundle
+ls
+nvim config.vim
+ls
+cd ..
+ls
+cd ..
+ls
+ll
+cd .vim/
+ls
+cd bundle/
+ls
+nvim coc.nvim/
+nvim coc.nvim
+cd ..
+nvim .bashrc
+exit
+tmux -V
+exit
+ls
+nvim .bashrc
+nvim .tmux.conf
+pip install --user powerline-status psutil
+set -g status-interval 2
+man status-interval
+exit
+rm .tmux.conf
+ls
+exit
+tmux show -g > ~/.tmux.conf
+exit
+nvim .tmux.conf
+tmuxp
+tmuxp -V
+python3 -m site --user-base
+psutil
+nvim .tmux.conf
+echo $PAGER
+most man ls
+sudo apt install most
+most man ls
+most man tmux
+PAGER=most man ls
+export PAGER="most"
+man tmux
+cd dotfiles/
+touch most.sh
+nvim most.sh
+cd ..
+nvim .bashrc
+cd dotfiles/
+ls
+exit
+ls
+ll
+man tmux
+exit
+man tmux
+nvim .bashrc
+exit
+man tmux
+nvim .bashrc
+man tmux
+exit
+man tmux
+source dotfiles/most.sh
+nvim dotfiles/most.sh 
+exit
+man tmux
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+cd .tmux/
+cd plugins/
+ls
+cd tmp
+ls
+cd tpm
+ls
+cd docs
+ls
+nvim automatic_tpm_installation.md 
+cd ~
+ls
+nvim .tmux.conf
+ls
+source .tmux.conf
+exit
+ls
+nvim .tmux.conf
+exit
+ls
+cd .tmux/
+ls
+cd plugins/
+ls
+exit
+ls
+nvim .tmux.conf
+exit
+ls
+cd Videos/
+ls
+cd ..
+cd development/
+cd python/
+ls
+cd poker/
+ls
+venv/bin/activate
+source venv/bin/activate
+export FLASK_APP=main.py
+export FLASK_ENV=development
+flask run
+npm install -g @angular/cli
+npm install -g npm@7.20.0
+ls
+cd ..
+ls
+cd poker/
+ls
+ng help
+ng new angular4-auth
+clear
+exit
+tmux ls
+exit
+cd development/elixir/
+elixir simple.exs
+tmux ls
+nvim .bashrc
+cd ~
+nvim .bashrc
+nvim .tmux.conf
+exit
+sudo apt update
+sudo apt install esl-erlang
+wget https://packages.erlang-solutions.com/erlang-solutions_2.0_all.deb && sudo dpkg -i erlang-solutions_2.0_all.deb
+sudo apt install esl-erlang
+sudo apt install elixir
+elixir --version
+iex
+cd development/
+mkdir elixir
+cd elixir/
+touch simple.exs
+nvim simple.exs 
+exit
+cd development/
+exit
+clear
+nvim .tmux.conf
+exit
+nvim .bashrc
+ls
+cd development/
+ls
+cd python
+ls
+cd poker/
+ls
+cd pokerWeb/
+ls
+nvim holdem.py
+ls
+cd ..
+cd ../..
+cd ..
+ls
+rm erlang-solutions_2.0_all.deb 
+cd development/
+ls
+cd elix
+cd elixir/
+ls
+nvim simple.exs
+exit
+nvim .bashrc
+ls
+cd development/
+ls
+sudo apt upgrade
+man tmux
+ls
+cd ..
+tmux
+ls
+ll
+nvim .tmux.conf.local 
+rm .tmux.conf.local 
+exit
+tmux
+exit
+ls
+ll
+nvim .tmux.conf
+tmus source ~/.tmux.conf 
+tmux source ~/.tmux.conf 
+~/.tmux/plugins/tpm/bin/install_plugins 
+ls
+cd development/
+ls
+cd elixir/
+ls
+nvim simple.exs 
+cd .
+cd ..
+nvim .tmux.conf
+clear
+ls
+cd development/python/
+ls
+cd poker/
+cd pokerWeb/
+ls
+exit
+nvim .tmux.conf
+exit
+cd /usr/share/doc/bash-doc/
+sudo apt install bash-doc
+cd /usr/share/doc/bash-doc/examples
+ls
+cd scripts
+ls
+nvim cat.sh
+ls
+nvim shprompt 
+nvim xterm_title 
+nvim center 
+nvim inpath 
+nvim spin.bash
+cd ..
+ls
+cd startup-files/
+ls
+nvim bashrc
+ls
+nvim bash-profile 
+nvim Bash-aliases
+nvim Bash_aliases 
+nvim Bash_profile 
+cd ..
+ls
+cd functions/
+ls
+nvim autoload
+nvim dirstack 
+nvim fact
+cd ..
+ls
+cd misc/
+ls
+cd ..
+ls
+cd ~
+ls
+cd Templates/
+ls
+cd ..
+cd Music/
+ls
+cd ..
+ls
+ll
+exit
+ls
+nvim .tmux.conf 
+exit
