@@ -160,7 +160,6 @@ endif
 
 " ============================================================================
 " Vim settings and mappings
-" You can edit them as you wish
  
 if using_vim
     " A bunch of things that are set by default in neovim, but not in vim

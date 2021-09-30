@@ -110,6 +110,8 @@ if [ -z "$SSH_AUTH_SOCK" ] ; then
 fi
 # Tmux
 export EDITOR="/usr/bin/vim"
+# Go
+export PATH="$PATH:/usr/local/go/bin"
 # Java
 export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
 export PATH="$JAVA_HOME/bin:$PATH"
