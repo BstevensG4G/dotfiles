@@ -1,139 +1,3 @@
-tmux show -g > ~/.tmux.conf
-exit
-nvim .tmux.conf
-tmuxp
-tmuxp -V
-python3 -m site --user-base
-psutil
-nvim .tmux.conf
-echo $PAGER
-most man ls
-sudo apt install most
-most man ls
-most man tmux
-PAGER=most man ls
-export PAGER="most"
-man tmux
-cd dotfiles/
-touch most.sh
-nvim most.sh
-cd ..
-nvim .bashrc
-cd dotfiles/
-ls
-exit
-ls
-ll
-man tmux
-exit
-man tmux
-nvim .bashrc
-exit
-man tmux
-nvim .bashrc
-man tmux
-exit
-man tmux
-source dotfiles/most.sh
-nvim dotfiles/most.sh 
-exit
-man tmux
-git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-cd .tmux/
-cd plugins/
-ls
-cd tmp
-ls
-cd tpm
-ls
-cd docs
-ls
-nvim automatic_tpm_installation.md 
-cd ~
-ls
-nvim .tmux.conf
-ls
-source .tmux.conf
-exit
-ls
-nvim .tmux.conf
-exit
-ls
-cd .tmux/
-ls
-cd plugins/
-ls
-exit
-ls
-nvim .tmux.conf
-exit
-ls
-cd Videos/
-ls
-cd ..
-cd development/
-cd python/
-ls
-cd poker/
-ls
-venv/bin/activate
-source venv/bin/activate
-export FLASK_APP=main.py
-export FLASK_ENV=development
-flask run
-npm install -g @angular/cli
-npm install -g npm@7.20.0
-ls
-cd ..
-ls
-cd poker/
-ls
-ng help
-ng new angular4-auth
-clear
-exit
-tmux ls
-exit
-cd development/elixir/
-elixir simple.exs
-tmux ls
-nvim .bashrc
-cd ~
-nvim .bashrc
-nvim .tmux.conf
-exit
-sudo apt update
-sudo apt install esl-erlang
-wget https://packages.erlang-solutions.com/erlang-solutions_2.0_all.deb && sudo dpkg -i erlang-solutions_2.0_all.deb
-sudo apt install esl-erlang
-sudo apt install elixir
-elixir --version
-iex
-cd development/
-mkdir elixir
-cd elixir/
-touch simple.exs
-nvim simple.exs 
-exit
-cd development/
-exit
-clear
-nvim .tmux.conf
-exit
-nvim .bashrc
-ls
-cd development/
-ls
-cd python
-ls
-cd poker/
-ls
-cd pokerWeb/
-ls
-nvim holdem.py
-ls
-cd ..
-cd ../..
 cd ..
 ls
 rm erlang-solutions_2.0_all.deb 
@@ -2011,4 +1875,128 @@ ssh root@208.87.131.61
 fvX4YBRxqn
 ssh root@208.87.131.61
 ssh dwadmin@208.87.131.61
+exit
+source .bashrc
+sudo apt install golang
+sudo apt update
+sudo apt upgrade
+ll
+rm .viminfo 
+ln -s dotfiles/.viminfo .viminfo
+cd dotfiles/
+ls
+ll
+cd ..
+ln -s dotfiles/init.vim init.vim
+sudo vim .bashrc
+source .bashrc
+go --version
+tmux
+exit
+cd ~
+ls
+l
+ll
+ls
+sudo tmux_restore
+sudo tmux-ressurect
+sudo $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+sudo git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+tmux
+source .tmux.conf
+ll
+sudo git clonegit@github.com:BstevensG4G/dotfiles.git
+sudo git clone git@github.com:BstevensG4G/dotfiles.git
+cd .ssh
+ls
+vim id_rsa.pub
+sudo git clone git@github.com:BstevensG4G/dotfiles.git
+cd ..
+git clone git@github.com:BstevensG4G/dotfiles.git
+ll
+sudo rm .bashrc
+sudo rm .bash_logout
+sudo rm .bash_history
+ln -s dotfiles/.bashrc .bashrc
+sudo rm dotfiles/.bash_logout .bash_logout
+ln -s dotfiles/.bash_history .bash_history
+rm  .viminfo
+ln -s dotfiles/.viminfo .viminfo
+rm .profile
+ln -s dotfiles/.profile .profile
+cd dotfiles/
+ls
+ll
+vim .wget-hsts 
+cd ..
+ln -s dotfiles/.tmux.conf .tmux.conf
+source .tmux.conf
+tmux
+ls
+source .bashrc
+go --version
+go gopath
+gopath
+sudo apt install golang
+exit
+vim .tmux.conf
+source .tmux.conf
+exit
+ls
+vim .tmux.conf
+exit
+./tpm
+exit
+tmux
+./tpm
+exit
+cd ~
+vim .tmux.conf
+exit
+vim .tmux.conf
+cd ~
+vim .tmux.conf
+source .tmux.conf
+tmux
+exit
+sudo apt install rust
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+ls
+cd ~
+ls
+ll
+source .bashrc
+tmux
+cd .tmux
+ls
+cd plugins/
+ls
+cd tpm
+ls
+tpm
+cd bin
+ls
+./update_plugins
+./update_plugins all
+ls
+cd ..
+ls
+cd scripts
+ls
+cd ..
+vim .tmux.conf
+source .tmux.conf
+tmux
+~/.tmux/plugins/tpm/bin/install_plugins
+cd .tmux/
+ls
+cd plugins/
+cd tpm
+ls
+tpm
+./tpm
+tmux
+vim .tmux.conf
+exit
+ssh dwadmin@developwright.com -p 2222
 exit

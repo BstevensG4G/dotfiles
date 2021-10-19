@@ -115,19 +115,5 @@ export PATH="$PATH:/usr/local/go/bin"
 # Java
 export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
 export PATH="$JAVA_HOME/bin:$PATH"
-# Android
-export ANDROID_HOME="/home/bill/Programs/Android/Sdk"
-export ANDROID_SDK_ROOT="$HOME/Programs/Android/Sdk"
-export PATH="$ANDROID_SDK_ROOT/cmdline-tools/latest/bin:$PATH"
-export PATH="$ANDROID_SDK_ROOT/cmdline-tools/latest/lib:$PATH"
-export PATH="$ANDROID_SDK_ROOT/platform-tools:$PATH"
-export PATH="$ANDROID_SDK_ROOT/emulator:$PATH"
-# Flutter
-export PATH="$HOME/Programs/flutter/bin:$PATH"
-
-#THIS MUST BE AT THE END OF THE FILE FOR SDKMAN TO WORK!!!
-export SDKMAN_DIR="/home/bill/.sdkman"
-[[ -s "/home/bill/.sdkman/bin/sdkman-init.sh" ]] && source "/home/bill/.sdkman/bin/sdkman-init.sh"
-export DISPLAY=172.21.48.1
-
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+. "$HOME/.cargo/env"
